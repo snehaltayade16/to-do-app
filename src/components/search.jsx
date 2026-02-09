@@ -9,7 +9,7 @@ function SearchItems(props) {
         },1000)
     }
     return(
-        <input placeholder="Search items..." className="p-1 rounded-md" onChange={searchItems}></input>
+        <input placeholder="Search Task..." className="p-1 rounded-md" onChange={searchItems}></input>
     )
     }
 

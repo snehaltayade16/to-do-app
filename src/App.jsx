@@ -19,7 +19,8 @@ function App() {
       {id:7,name:"pear", date:"2024-01-07", isCompleted:false, },
       {id:8,name:"pineapple", date:"2024-01-08", isCompleted:false, },
       {id:9,name:"strawberry", date:"2024-01-09", isCompleted:false, },
-      {id:10,name:"watermelon", date:"2024-01-10", isCompleted:false, },   
+      {id:10,name:"watermelon", date:"2024-01-10", isCompleted:false, },
+      {id:10,name:"peru", date:"2024-01-10", isCompleted:false, },   
      ]
 
     const [data, setData] = useState(OriginalData)
